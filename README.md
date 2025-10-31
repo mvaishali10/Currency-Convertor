@@ -8,13 +8,12 @@ It allows users to convert currency values between different countries using rea
 
 ## Features
 
-**Live currency conversion** using [Fawaz Ahmed’s Free Currency API](https://github.com/fawazahmed0/currency-api)
-**Automatic flag updates** for selected countries
-**Default selection** of USD → INR
-**Responsive and clean design**
-**User-friendly interface**
+**Live currency conversion** using [Fawaz Ahmed’s Free Currency API](https://github.com/fawazahmed0/currency-api), 
+**Automatic flag updates** for selected countries,
+**Default selection** of USD → INR,
+**Responsive and clean design**,
+**User-friendly interface**,
 
----
 
 ##  Tech Stack
 
@@ -24,7 +23,6 @@ It allows users to convert currency values between different countries using rea
 * **Font Awesome** – Icons
 * **FlagsAPI** – For country flag images
 
----
 
 ##  Project Structure
 
@@ -48,7 +46,6 @@ currency-converter/
    * Displays the result (e.g., `100 USD = 8320 INR`).
 4. Flags update dynamically when you change a currency.
 
----
 
 ## API Used
 
